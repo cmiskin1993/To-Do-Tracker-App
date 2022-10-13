@@ -5,3 +5,15 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+puts "🌱 Seeding spices..."
+
+# user = User.create(username: "Carrie", password: "Password")
+
+# shower = Todo.create(date: 'Monday', title: 'Wash the dog', user_id: todo.id) 
+
+# Todo.create([
+#     {date: 'Monday', title: 'Wash the dog', user_id: 1}
+# ])
+
+puts "✅ Done seeding!"
